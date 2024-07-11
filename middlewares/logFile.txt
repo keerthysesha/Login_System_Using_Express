@@ -1,0 +1,8 @@
+New user Authenticated!
+Username: keerthy
+Password: keerthy30
+URL: /api/checkLoggerData/keerthy/keerthy30
+Date: 7/11/2024, 8:51:03 AM
+Method Type: POST
+Status: Authentication Successful 
+
